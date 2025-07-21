@@ -1,16 +1,26 @@
-## Hi there 👋
+# Myunggu Kang
 
-<!--
-**sec-ekang/sec-ekang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**E-Mail**
 
-Here are some ideas to get you started:
+edenkang@outlook.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mobile**
+
+027 370 6796
+
+**Address**
+
+Rolleston, Christchurch
+
+**Visa**
+
+Permanent Resident Visa
+
+## 🙋‍♂️ About me
+
+---
+
+- Experienced in DevOps, Security Testing, and Cloud Solutions
+- Passionate about mentoring and empowering teams
+- Proven track record in driving automation and quality in fast-paced environments
+- Committed to delivering scalable solutions and continuous learning
