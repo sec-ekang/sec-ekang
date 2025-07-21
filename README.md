@@ -1,21 +1,5 @@
 # Myunggu Kang
 
-**E-Mail**
-
-edenkang@outlook.com
-
-**Mobile**
-
-027 370 6796
-
-**Address**
-
-Rolleston, Christchurch
-
-**Visa**
-
-Permanent Resident Visa
-
 ## 🙋‍♂️ About me
 
 ---
