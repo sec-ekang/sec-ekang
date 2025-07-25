@@ -1,3 +1,4 @@
+![bg](./edenk-bg.png)
 ## 🙋‍♂️ About me
 
 - QA engineering professional with 5+ years of experience in software and security testing, specializing in end-to-end automation and continuous improvement.
