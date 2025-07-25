@@ -2,8 +2,6 @@
 
 ## 🙋‍♂️ About me
 
----
-
 - QA engineering professional with 5+ years of experience in software and security testing, specializing in end-to-end automation and continuous improvement.
 - ISTQB Advanced Level–certified and skilled at independently managing all aspects of testing outside of core development, applying strong Shift-Left and Shift-Right strategies for quality assurance.
 - AWS Solutions Architect–certified and currently expanding expertise in Azure.
@@ -11,11 +9,9 @@
 
 ## 🏃‍♂️ Career
 
----
-
 **Computer Science Instructor**
 
-EduExpert, Auckland
+EduExpert, Auckland (Part-time, Remote)
 
 Aug 2023 - Present
 
@@ -23,9 +19,7 @@ Aug 2023 - Present
 
 **QA Engineer**
 
-AIIT, Auckland
-
-(Full-time, On-site)
+AIIT, Auckland (Full-time, On-site)
 
 Nov 2020 - Jul 2023
 
@@ -37,9 +31,7 @@ Nov 2020 - Jul 2023
 
 **Test Analyst**
 
-SO Testing, Auckland
-
-(Full-time, On-site)
+SO Testing, Auckland (Full-time, On-site)
 
 Sep 2018 - Nov 2020
 
@@ -50,9 +42,7 @@ Sep 2018 - Nov 2020
 
 **Security Analyst**
 
-FeatureIT, Auckland
-
-(Internship, On-site)
+FeatureIT, Auckland (Internship, On-site)
 
 May 2018 - Aug 2018
 
@@ -61,8 +51,6 @@ May 2018 - Aug 2018
 - **Project**: *Vulnerability Assessment for Web Application and Cloud Infrastructure*
 
 ## 📝 Key Technical Skills
-
----
 
 - **Test Automation**:
     - Selenium, Playwright, Cucumber (BDD), Appium, K6, Postman, JavaScript, Java
@@ -81,8 +69,6 @@ May 2018 - Aug 2018
     - Git, GitHub
 
 ## 📝 Professional Projects
-
----
 
 - **Development of DevOps Training Content & Practical Guide for Microservice Architecture**
     - *AIIT, 2022 - 2023*
@@ -111,8 +97,6 @@ May 2018 - Aug 2018
 
 ## 🏅 Certifications
 
----
-
 - AWS Certified Solutions Architect - Associate (Aug 2024)
 - ISTQB Security Tester (Apr, 2018)
 - ISTQB Test Analyst (Mar, 2018)
@@ -120,8 +104,6 @@ May 2018 - Aug 2018
 - Certified Information System Security Professional (Dec, 2012)
 
 ## 📖 Educations
-
----
 
 - **Master of Professional Studies in Digital Security**
     - The University of Auckland, 2017
@@ -131,8 +113,6 @@ May 2018 - Aug 2018
     - Auckland, New Zealand
 
 ## 🎒 Activities
-
----
 
 - **Mentoring university students on DevOps, Cloud, and Security practices and academic projects on a volunteer basis.** (May 2024 - Present)
     - Mentored 5+ university students—guided capstone projects and career planning.
