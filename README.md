@@ -58,12 +58,9 @@ May 2018 - Aug 2018
 - **CI/CD & DevOps**:
     - Jenkins, GitHub Actions, Azure DevOps, Docker, Kubernetes, Terraform, Ansible
 - **Security & Compliance**:
-    - OWASP ZAP, Burp Suite, Trivy, Snyk, Dependabot, RBAC, NZISM, PCI-DSS, OWASP Top 10
+    - OWASP ZAP, Burp Suite, Trivy, Snyk, Dependabot, RBAC, NZISM, PCI-DSS, OWASP Top 10 Web Application and API Security Risks
 - **Cloud & Monitoring**:
     - AWS, Azure, infrastructure as code, observability, log aggregation
-- **API & Web Testing**:
-    - OWASP Top 10 Web Application and API Security Risks
-    - Authentication, input validation, XSS/SQL injection, rate limiting
 - **Version Control & Collaboration**:
     - Git, GitHub
 
