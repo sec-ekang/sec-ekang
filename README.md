@@ -47,3 +47,6 @@
 
 - [DevOps Foundation](https://cold-buffet-8c8.notion.site/DevOps-Foundation-1bfa6d8427b280ccba7fe6321c4ab54e)
 - [DevOps Advanced](https://cold-buffet-8c8.notion.site/DevOps-Advanced-1f0a6d8427b28026bf8ecca1f2158975)
+- [Capstone Project Guide - DevOps](https://cold-buffet-8c8.notion.site/Capstone-Project-DevOps-1eba6d8427b280d5a906d61e5c649d4c)
+- [Capstone Project Guide - DevSecOps](https://cold-buffet-8c8.notion.site/Capstone-Project-DevSecOps-1eba6d8427b28057b2d8e88d068295b5)
+- [Capstone Project Guide - SRE](https://cold-buffet-8c8.notion.site/Capstone-Project-SRE-1eba6d8427b28020961cdd0c4b12e23e)
