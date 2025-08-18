@@ -1,5 +1,5 @@
 ![bg](./edenk-bg.png)
-## 🙋‍♂️ About me
+## About me
 
 - QA engineering professional with 5+ years of experience in software and security testing, specializing in end-to-end automation, quality assurance, and continuous improvement across the full software development lifecycle, including developing course materials and delivering hands-on lab training.
 - Experienced in developing customized training materials and delivering hands-on lab sessions for testers and engineers, with proven expertise in creating comprehensive course content and conducting practical workshops to help teams upskill in automation, DevOps, and security best practices.
@@ -7,7 +7,7 @@
 - AWS Solutions Architect certified with hands-on expertise in Azure and a proven ability to adapt and expand into all areas of DevOps engineering through continuous learning and professional development initiatives.
 
 
-## 📝 Key Technical Skills
+## Key Technical Skills
 
 - **Test Automation**:
     - Selenium, Playwright, Cucumber (BDD), Appium, K6, Postman, JavaScript, Python
@@ -21,3 +21,23 @@
     - AWS, Microsoft Azure, ELK Stack, Prometheus, Grafana
 - **Version Control & Collaboration**:
     - Git, GitHub, GitLab, Github Flow branch strategy
+- **AI Testing (RAG & Agentic AI)**:
+    - LangChain Evaluation, TruLens, DeepEval, MLflow, Weights & Biases, Pinecone, Weaviate, ChromaDB
+ 
+## Resources
+
+- [Software Testing Strategies and Plans](https://github.com/sec-ekang/qa_frameworks/tree/main/test-docs)
+- [Functional Testing Guides](https://github.com/sec-ekang/qa_frameworks/tree/main/functional-test)
+- [Non-Functional Testing Guides](https://github.com/sec-ekang/qa_frameworks/tree/main/non-functional-test)
+- [Automation Testing Framewoks](https://github.com/sec-ekang/qa_frameworks/tree/main/framework-examples)
+- [Infrastructure as Code: Terraform and Ansible](https://github.com/sec-ekang/modern-devops-practices/tree/main/infrastructure)
+- [Docker: Dockerfiles, Docker-Compose](https://github.com/sec-ekang/modern-devops-practices/tree/main/docker)
+- [Kubernetes: Manifest, Helm, Kustomize, Istio, Logging & Monitoring](https://github.com/sec-ekang/modern-devops-practices/tree/main/kubernetes) 
+- [DevOps Guide Docs](https://github.com/sec-ekang/modern-devops-practices/tree/main/docs)
+- [Security Testing (OWASP ZAP & Burp Suite)](https://github.com/username/security-testing)
+- [DevOps Infrastructure with Terraform & Kubernetes](https://github.com/username/devops-infra)
+- [Cloud Security Testing](https://github.com/sec-ekang/security-test_frameworks/tree/main/cloud-security)
+- [API Security Testing](https://github.com/sec-ekang/security-test_frameworks/tree/main/api-security-test)
+- [Web Application Security Testing](https://github.com/sec-ekang/security-test_frameworks/tree/main/web-security-test)
+- [Security Compliance Testing](https://github.com/sec-ekang/security-test_frameworks/tree/main/security-compliances)
+- [AI Testing Frameworks and Guides](https://github.com/sec-ekang/ai-test_frameworks)
