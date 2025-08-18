@@ -42,3 +42,8 @@
 - [Web Application Security Testing](https://github.com/sec-ekang/security-test_frameworks/tree/main/web-security-test)
 - [Security Compliance Testing](https://github.com/sec-ekang/security-test_frameworks/tree/main/security-compliances)
 - [AI Testing Frameworks and Guides](https://github.com/sec-ekang/ai-test_frameworks)
+
+## Mentorship notes (Theory & Practice)
+
+- [DevOps Foundation](https://cold-buffet-8c8.notion.site/DevOps-Foundation-1bfa6d8427b280ccba7fe6321c4ab54e)
+- [DevOps Advanced](https://cold-buffet-8c8.notion.site/DevOps-Advanced-1f0a6d8427b28026bf8ecca1f2158975)
