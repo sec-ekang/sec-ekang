@@ -34,8 +34,6 @@
 - [Docker: Dockerfiles, Docker-Compose](https://github.com/sec-ekang/modern-devops-practices/tree/main/docker)
 - [Kubernetes: Manifest, Helm, Kustomize, Istio, Logging & Monitoring](https://github.com/sec-ekang/modern-devops-practices/tree/main/kubernetes) 
 - [DevOps Guide Docs](https://github.com/sec-ekang/modern-devops-practices/tree/main/docs)
-- [Security Testing (OWASP ZAP & Burp Suite)](https://github.com/username/security-testing)
-- [DevOps Infrastructure with Terraform & Kubernetes](https://github.com/username/devops-infra)
 - [Cloud Security Testing](https://github.com/sec-ekang/security-test_frameworks/tree/main/cloud-security)
 - [API Security Testing](https://github.com/sec-ekang/security-test_frameworks/tree/main/api-security-test)
 - [Web Application Security Testing](https://github.com/sec-ekang/security-test_frameworks/tree/main/web-security-test)
