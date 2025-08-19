@@ -1,10 +1,10 @@
 ![bg](./edenk-bg.png)
 ## About me
 
-- QA engineering professional with 5+ years of experience in software and security testing, specializing in end-to-end automation, quality assurance, and continuous improvement across the full software development lifecycle, including developing course materials and delivering hands-on lab training.
-- Experienced in developing customized training materials and delivering hands-on lab sessions for testers and engineers, with proven expertise in creating comprehensive course content and conducting practical workshops to help teams upskill in automation, DevOps, and security best practices.
-- ISTQB Advanced Level–certified professional, skilled at independently leading all aspects of testing beyond development—including DevOps, DevSecOps, and SRE testing—by applying robust Shift-Left and Shift-Right strategies to optimize quality throughout the development pipeline.
-- AWS Solutions Architect certified with hands-on expertise in Azure and a proven ability to adapt and expand into all areas of DevOps engineering through continuous learning and professional development initiatives.
+- QA engineering professional with 5+ years of experience in software and security testing, specializing in end-to-end automation, quality assurance, and continuous improvement across the full software development lifecycle.
+- Experienced in creating tailored training materials and delivering hands-on workshops that upskill testers and engineers in automation, DevOps, and security best practices.
+- ISTQB Advanced Level–certified, with expertise in integrating testing into DevOps, DevSecOps, and SRE practices, applying Shift-Left and Shift-Right strategies to drive quality across the development pipeline.
+- AWS Solutions Architect–certified, with practical experience in Azure and a strong ability to adapt and expand across all areas of DevOps engineering through continuous learning and professional development.
 
 
 ## Key Technical Skills
